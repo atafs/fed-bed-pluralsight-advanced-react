@@ -9,7 +9,12 @@ cd ..;
 #yarn add babel-cli babel-preset-react babel-preset-env babel-preset-stage-2
 #yarn add react react-dom webpack
 #yarn add babel-loader
-yarn add babel-polyfill
+#yarn add babel-polyfill
+
+#get testing data into a file from an api
+#wget -O lib/testData.json bit.ly/react-blog-test-data
+
+yarn add --dev jest
 
 #yarn dev;
 #yarn pm2 logs;
