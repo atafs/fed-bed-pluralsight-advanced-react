@@ -16,5 +16,7 @@ cd ..;
 
 yarn add --dev jest
 
-#yarn dev;
-#yarn pm2 logs;
+#run the app:
+#> yarn dev;
+#> yarn webpack
+#> yarn pm2 logs;
