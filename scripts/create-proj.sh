@@ -14,7 +14,8 @@ cd ..;
 #get testing data into a file from an api
 #wget -O lib/testData.json bit.ly/react-blog-test-data
 
-yarn add --dev jest
+#yarn add --dev jest
+yarn add --dev react-test-renderer
 
 #run the app:
 #> yarn dev;
